@@ -1,6 +1,6 @@
 /* import { heroes } from './data/heroes';
 import {} from './data/heroes' */
-import heroes, {owner} from '../data/heroes';
+import heroes, {owner} from './data/heroes';
 
 console.log(owner)
 
