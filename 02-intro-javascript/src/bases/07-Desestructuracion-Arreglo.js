@@ -1,5 +1,5 @@
 //Desestructuracion de arreglos
-
+//Metodos: https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/filter
 const personajes = ['Goku','Vegeta','Trunks'];
 
 const [p1]=personajes;
