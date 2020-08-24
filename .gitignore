@@ -3,13 +3,19 @@
 # dependencies
 /02-intro-javascript/node_modules
 /02-intro-javascript/.pnp
-02-intro-javascript/.pnp.js
+/02-intro-javascript/.pnp.js
+
+/03-counter-app/node_modules
+/03-counter-app/.pnp
+/03-counter-app/.pnp.js
 
 # testing
 /02-intro-javascript/coverage
+/03-counter-app/coverage
 
 # production
 /02-intro-javascript/build
+/03-counter-app/build
 
 # misc
 .DS_Store
