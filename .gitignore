@@ -9,9 +9,14 @@
 /03-counter-app/.pnp
 /03-counter-app/.pnp.js
 
+/04-gif-expert-app/node_modules
+/04-gif-expert-app/.pnp
+/04-gif-expert-app/.pnp.js
+
 # testing
 /02-intro-javascript/coverage
 /03-counter-app/coverage
+/04-gif-expert-app/coverage
 
 # production
 /02-intro-javascript/build
